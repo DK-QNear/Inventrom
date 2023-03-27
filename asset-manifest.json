@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Inventrom/static/css/main.ce57bb65.css",
+    "main.js": "/Inventrom/static/js/main.69551dfa.js",
+    "static/js/787.483e2b77.chunk.js": "/Inventrom/static/js/787.483e2b77.chunk.js",
+    "static/media/backimage.jpg": "/Inventrom/static/media/backimage.01965def878552415c1f.jpg",
+    "static/media/mission.png": "/Inventrom/static/media/mission.2c163db0683b618e2193.png",
+    "static/media/award1.png": "/Inventrom/static/media/award1.0fd11df0418080e51adb.png",
+    "static/media/award2.png": "/Inventrom/static/media/award2.70ad4bafe8983a13c0a2.png",
+    "static/media/vision01.jpg": "/Inventrom/static/media/vision01.658b05a6efddc8222c23.jpg",
+    "static/media/award4.png": "/Inventrom/static/media/award4.6abc047c39e89deb21ad.png",
+    "static/media/award3.png": "/Inventrom/static/media/award3.9cd8731cb25f43e5deb4.png",
+    "index.html": "/Inventrom/index.html",
+    "main.ce57bb65.css.map": "/Inventrom/static/css/main.ce57bb65.css.map",
+    "main.69551dfa.js.map": "/Inventrom/static/js/main.69551dfa.js.map",
+    "787.483e2b77.chunk.js.map": "/Inventrom/static/js/787.483e2b77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce57bb65.css",
+    "static/js/main.69551dfa.js"
+  ]
+}
